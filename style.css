@@ -1,7 +1,7 @@
 :root {
 	--bg-color: rgba(234, 234, 235, 0.6);
 	--top-color: #eeeeef;
-        --top-family:'PT Sans', sans-serif;
+       --top-family:'PT Sans', sans-serif;
 }
 
 * {
@@ -347,7 +347,7 @@ h1 {
 	height: 48px;
 	left: 41%;
 	line-height: 24px;
-	margin-left: -78px;
+	margin-left: -80px;
 	margin-top: 83px;
 	position: absolute;
 	text-align: center;
