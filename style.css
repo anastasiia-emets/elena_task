@@ -1,7 +1,7 @@
 :root {
 	--bg-color: rgba(234, 234, 235, 0.6);
 	--top-color: #eeeeef;
---top-family:'PT Sans', sans-serif;
+        --top-family:'PT Sans', sans-serif;
 }
 
 * {
@@ -17,7 +17,6 @@ body {
 }
 .background {
 	height: 588px;
-	object-fit: cover;
 	width: 100%;
 }
 .header1 {
