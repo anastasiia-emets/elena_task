@@ -134,6 +134,7 @@ p {
 }
 .head {
 	position: relative;
+	
 	z-index: 2;
 }
 .head1::after {
@@ -154,6 +155,11 @@ p {
 	margin-right: auto;
 
 }
+.header{
+	display:flex;
+	justify-content:center;
+}
+
 .paragr {
 	text-align: left;
 }
@@ -164,6 +170,8 @@ p {
 .end {
 	background-color: var(--top-color);
 	height: 50px;
+	justify-content: center; 
+	vertical-align: cednter;
 }
 .people_together {
 	margin-left: auto;
