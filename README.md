@@ -10,7 +10,9 @@ it's very easy, you can just сlone repository
 $ git clone https://github.com/anastasiia-emets/elena_task.git
 # Result
 ![alt text](https://github.com/anastasiia-emets/elena_task/blob/master/Untitled.png)
+
 ![alt text](https://github.com/anastasiia-emets/elena_task/blob/master/Untitled1.png)
+
 ![alt text](https://github.com/anastasiia-emets/elena_task/blob/master/Untitled3.png)
 
 
