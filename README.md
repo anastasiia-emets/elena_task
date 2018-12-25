@@ -9,4 +9,10 @@ The result of task you can [see here](https://anastasiia-emets.github.io/elena_t
 it's very easy, you can just сlone repository 
 $ git clone https://github.com/anastasiia-emets/elena_task.git
 # Result
-![alt text](https://raw.githubusercontent.com/bootstrapthemesco/fitness-html-one-page-bootstrap-template/master/Fitness.jpg)
+![alt text](https://github.com/anastasiia-emets/elena_task/blob/master/Untitled.png)
+![alt text](https://github.com/anastasiia-emets/elena_task/blob/master/Untitled1.png)
+![alt text](https://github.com/anastasiia-emets/elena_task/blob/master/Untitled3.png)
+
+
+
+
